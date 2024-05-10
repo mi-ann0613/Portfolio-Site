@@ -10,15 +10,14 @@ import {
 
 import GithubIcon from '../components/Icon/GithubIcon';
 import heroImage from '../images/header-background.webp';
-import porfolioImage1 from '../images/portfolio/portfolio-schoolmanagement.png';
-import porfolioImage2 from '../images/portfolio/portfolio-ecommerce.png';
+import porfolioImage8 from '../images/portfolio/portfolio-datapane.png';
 import porfolioImage3 from '../images/portfolio/portfolio-dealty.jpg';
+import porfolioImage2 from '../images/portfolio/portfolio-ecommerce.png';
 import porfolioImage4 from '../images/portfolio/portfolio-evolve.jpg';
-import porfolioImage5 from '../images/portfolio/portfolio-realestate.jpg';
 import porfolioImage6 from '../images/portfolio/portfolio-femometer.jpg';
 import porfolioImage7 from '../images/portfolio/portfolio-masterybrandambassador.jpg';
-import porfolioImage8 from '../images/portfolio/portfolio-datapane.png';
-
+import porfolioImage5 from '../images/portfolio/portfolio-realestate.jpg';
+import porfolioImage1 from '../images/portfolio/portfolio-schoolmanagement.png';
 import profilepic from '../images/profilepic.jpg';
 import testimonialImage from '../images/testimonial.webp';
 import {
@@ -38,7 +37,7 @@ import {
  * Page meta data
  */
 export const homePageMeta: HomepageMeta = {
-  title: 'Michael Ann\'\s Resume',
+  title: 'Michael Ann\'s Resume',
   description: "Resume site built with react",
 };
 
@@ -104,7 +103,7 @@ export const aboutData: About = {
     {label: 'Age', text: '26', Icon: CalendarIcon},
     {label: 'Nationality', text: 'Canadian / Japanese', Icon: FlagIcon},
     {label: 'Interests', text: 'Singing, Table-tennis', Icon: SparklesIcon},
-    {label: 'Study', text: 'Queen\'\s University', Icon: AcademicCapIcon},
+    {label: 'Study', text: 'Queen\'s University', Icon: AcademicCapIcon},
     {label: 'Employment', text: 'Equilibre Finance', Icon: BuildingOffice2Icon},
   ],
 };
@@ -300,8 +299,8 @@ export const portfolioItems: PortfolioItem[] = [
 export const education: TimelineItem[] = [
   {
     date: 'Sep 2015 - Mar 2019',
-    location: 'Bachelor\'\s Degree',
-    title: 'Queen\'\s University',
+    location: 'Bachelor\'s Degree',
+    title: 'Queen\'s University',
     content: <p></p>,
   },
 ];
