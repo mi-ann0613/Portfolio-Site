@@ -1,6 +1,5 @@
 /* eslint-env node */
 module.exports = {
-  // siteUrl: 'reactresume.com',
   exclude: ['/404*', '/500*'],
   transform: async (config, path) => {
     return {

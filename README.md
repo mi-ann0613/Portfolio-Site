@@ -4,4 +4,3 @@
 
 ##IF there's any feedback, please contact me
     Mail: machaelann0613@gmail.com
-    Discord: 
