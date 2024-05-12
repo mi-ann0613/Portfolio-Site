@@ -37,8 +37,8 @@ import {
  * Page meta data
  */
 export const homePageMeta: HomepageMeta = {
-  title: 'Michael Ann\'s Resume',
-  description: "Resume site built with react",
+  title: 'Michael Ann',
+  description: "Michael Ann's Portfolio",
 };
 
 /**
