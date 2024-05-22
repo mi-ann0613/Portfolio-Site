@@ -100,7 +100,7 @@ export const aboutData: About = {
   description: ``,
   aboutItems: [
     {label: 'Location', text: 'Kingston, Ontario, Canada', Icon: MapIcon},
-    {label: 'Age', text: '26', Icon: CalendarIcon},
+    {label: 'Age', text: '29', Icon: CalendarIcon},
     {label: 'Nationality', text: 'Canadian / Japanese', Icon: FlagIcon},
     {label: 'Interests', text: 'Singing, Table-tennis', Icon: SparklesIcon},
     {label: 'Study', text: 'Queen\'s University', Icon: AcademicCapIcon},
