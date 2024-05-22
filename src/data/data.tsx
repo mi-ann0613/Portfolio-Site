@@ -246,7 +246,7 @@ export const portfolioItems: PortfolioItem[] = [
   {
     title: 'School Management',
     description: 'School Management System using Python & Django',
-    url: 'https://github.com/mi-ann0613/SchoolManagement',
+    url: 'https://github.com/mi-ann0613/school-management',
     image: porfolioImage1,
   },
   {
@@ -258,7 +258,7 @@ export const portfolioItems: PortfolioItem[] = [
   {
     title: 'Real Estate',
     description: 'Real Estate Management System based on Laravel framework.',
-    url: 'https://github.com/mi-ann0613/Real-estate',
+    url: 'https://github.com/mi-ann0613/real-estate',
     image: porfolioImage3,
   },
   {
